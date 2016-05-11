@@ -49,7 +49,7 @@
 
 /* Begin PBXFileReference section */
 		152552A91CE2199100F618A4 /* ScheduledViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScheduledViewController.swift; sourceTree = "<group>"; };
-		153E2AA61CE0CB14001F6908 /* Hotel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Hotel.swift; path = ../Hotel.swift; sourceTree = "<group>"; };
+		153E2AA61CE0CB14001F6908 /* Hotel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Hotel.swift; sourceTree = "<group>"; };
 		153E2AAB1CE0CD60001F6908 /* FlightDAO.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlightDAO.swift; sourceTree = "<group>"; };
 		154B593F1CCA4A61003B6343 /* Scheduled.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Scheduled.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		154B59421CCA4A62003B6343 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -67,7 +67,7 @@
 		154B59731CCA99FB003B6343 /* NewTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewTableViewController.swift; sourceTree = "<group>"; };
 		154B59751CCAA45C003B6343 /* AirportTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AirportTableViewController.swift; sourceTree = "<group>"; };
 		154B597A1CCAA4D0003B6343 /* DatabaseManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DatabaseManager.swift; sourceTree = "<group>"; };
-		154B597D1CCAA58F003B6343 /* Airport.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Airport.swift; path = ../Airport.swift; sourceTree = "<group>"; };
+		154B597D1CCAA58F003B6343 /* Airport.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Airport.swift; sourceTree = "<group>"; };
 		154B59801CCAA8A5003B6343 /* AirportDAO.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AirportDAO.swift; sourceTree = "<group>"; };
 		154B59821CCAAE17003B6343 /* airportsBrazil.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = airportsBrazil.json; sourceTree = "<group>"; };
 		154B59841CCABEEB003B6343 /* AirlineTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AirlineTableViewController.swift; sourceTree = "<group>"; };

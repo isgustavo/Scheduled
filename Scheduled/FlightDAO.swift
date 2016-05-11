@@ -61,6 +61,10 @@ class FlightDAO {
         
         let request = NSFetchRequest(entityName: "Flight")
         request.sortDescriptors = [NSSortDescriptor(key: "dateHour", ascending:true)]
+        
+        let datePredicate = NSPredicate(format: "dateHour > %@", NSDate())
+        
+        request.predicate = datePredicate
 
         var results = [Flight]()
         
